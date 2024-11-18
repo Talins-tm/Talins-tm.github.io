@@ -17,7 +17,7 @@
 
 .page {
     width: min(800px,95vw);
-    padding: 8px;
+    padding: 0px;
     margin: 0 auto
 }
 
