@@ -11,10 +11,6 @@
     background-color: #FF0000;
 }
 
-.body{ zoom: 60%}
-
-}
-
 .header h1 {
     margin: 10px 0
 }
@@ -38,4 +34,8 @@
 }
 div[style="width: 3125px; height: 2668px; position: relative; background: white"] {
     max-width: 50%;
+}
+
+body{ zoom: 75%}
+
 }
