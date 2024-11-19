@@ -11,7 +11,7 @@
     background-color: #FF0000;
 }
 
-.div[style="width: 3125px; height: 2668px; position: relative; background: white"] {
+div[style="width: 3125px; height: 2668px; position: relative; background: white"] {
     max-width: 100%;
 }
 
