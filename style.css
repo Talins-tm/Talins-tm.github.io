@@ -33,6 +33,6 @@
     font-size: 3vh;
 }
 
-document.body.style.transform = 'scale('60%')';
+transform: scale(60%)
 
 }
